@@ -1,2 +1,2 @@
-# Movie
-Made a small project for the college subject submission.
+# FrontEndMovieWebSite
+Made a front-end movie web-site for college project.
